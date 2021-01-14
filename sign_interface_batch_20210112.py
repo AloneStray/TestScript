@@ -43,5 +43,5 @@ with open(file="sign_interface_rooms.txt") as  f:
 
 2.写代码的时候没考虑到，结果都有\n。line = line.strip('\n')  #读取文件去除换行符
 
-3.line.strip("分隔符")  结果是列表
+3.line.strip("分隔符")  结果是列表 
 '''
